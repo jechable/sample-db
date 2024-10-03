@@ -31,5 +31,5 @@ WHERE id_cliente = 6;
 DELETE FROM Impresoras
 WHERE modelo_impresora = 'Thinker Pro';
 
-DELETE FROM Tecnicos
-WHERE id_tecnico = 3;
+DELETE FROM Clientes
+WHERE id_cliente = 7;
